@@ -1,0 +1,93 @@
+<html>
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Meghana's Personal site</title>
+		</head>
+	<body>
+	<table>
+	<tr>
+	<td><img src="BeautyPlus_20181130193454239_save.png" alt="meghana profile picture"></td>
+	<td><h1>Meghana JP</h1>
+	<h2>studying in <a href="http://www.sit.ac.in/">siddaganga Institute of technology</a></h2>
+	</td>
+	
+	</tr>
+	</table>
+
+	<hr>
+	<h3>books i read  is</h3>
+	<ul>
+	<li>complete book of Balaguru Swamy in C</li>
+	<li>reading at present Core Python by Nageshwar Rao</li>
+	</ul>
+	<a href="hobbies.html">my hobbies</a>
+	<hr>
+	<a href="contact.html">my contact details</a>	
+	<table border="1">
+	<tr>
+	<th>dates</th>
+	<th>studies</th>
+	</tr>
+	<tr>
+	<td> 2016</td>
+	<td> i completed my 10th</td>
+	</tr>
+	<tr>
+	<td> 2018</td>
+	<td>i completed my 12th</td>
+	</tr>
+	<tr>
+	<td>2019</td>
+	<td> yet to study engineering</td>
+	</tr>
+	</table>
+	<table>
+	<tr>
+	<th>languages</th>
+	<th> rating</th></tr>
+	<tr>
+	<td>C programing</td>
+	<td>⭐⭐⭐⭐</td>
+	</tr>
+	<tr>
+	<td>webdevelopment</td>
+	<td>⭐⭐⭐</td>
+	</tr>
+	<tr>
+	<td>python</td>
+	<td>⭐⭐</td>
+	</tr>
+	</table>
+	
+	
+	
+	
+	
+	
+	
+	<p><em><strong><a href ="https://www.sit.ac.in/">Siddaganga institute of technology</strong></em></p>
+	<hr size="3" noshade>
+	<table>
+	<tr>
+	<td>date of studing</td></tr>
+	<h3>My hobbies:</h3>
+	<h4>Drawing</h4>
+	<h4>Cooking</h4>
+	<h4>Reading</h4>
+	<h4>Bike Riding</h4>
+	<hr>
+	<h3>My Studies</h3>
+	<h4>2016: completed my 10th</h4>
+	<h4>2018: completed my 12th</h4>
+	<h4>2019: studying my engineering</h4>
+	<hr>
+	<h4>Skillshttps://youtu.be/dFW9v10mVL4</h4>
+	<h5>C Programming</h5>
+	<h5>Python</h5>
+	<h5>Web Development</h5>
+	<hr>
+	
+	
+	
+	</body>
